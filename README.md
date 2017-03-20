@@ -1,16 +1,19 @@
 # Newbie team
 
-Thông tin nhóm:
+##Thông tin nhóm:
   * Thành lập: 20-3-2017
   * Số thành viên: 5 người
   * Nhóm trưởng: Hoàng Xuân Trường
   
-#Thành viên nhóm:
+##Thành viên nhóm:
 
 STT | Họ và tên | MSSV | SĐT | Email
 -----|------------|------|---------|------------
 1 | Hoàng Xuân Trường | 1612899 | 0976554304 | hoangxuantruong98@gmail.com
 2 | 
+3 |
+4 |
+5 |
 
 ## Đề tài
 
