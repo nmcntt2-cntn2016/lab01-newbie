@@ -1,11 +1,12 @@
-# Newbie team
+# NEWBIE Team
 
-##Thông tin nhóm:
+## Thông tin nhóm:
+
   * Thành lập: 20-3-2017
   * Số thành viên: 5 người
   * Nhóm trưởng: Hoàng Xuân Trường
   
-##Thành viên nhóm:
+### Thành viên nhóm:
 
 STT | Họ và tên | MSSV | SĐT | Email
 -----|------------|------|---------|------------
