@@ -13,7 +13,7 @@ STT | Họ và tên | MSSV | SĐT | Email
 1 | Hoàng Xuân Trường | 1612899 | 0976554304 | hoangxuantruong98@gmail.com
 2 | Đặng Thị Huyền Trâm | 1612719 | 01234974667 | danghuyentram@gmail.com
 3 | Nguyễn Đỗ Cát Trân | 1612898 | 0969113124 | cattran.9a1pct@gmail.com
-4 |
+4 | Nguyễn Quốc Vương | 1612829 | 01628014771 | vuongprowin1@gmail.com
 5 |
 
 ## Đề tài
