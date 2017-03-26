@@ -14,7 +14,7 @@ STT | Họ và tên | MSSV | SĐT | Email
 2 | Đặng Thị Huyền Trâm | 1612719 | 01234974667 | danghuyentram@gmail.com
 3 | Nguyễn Đỗ Cát Trân | 1612898 | 0969113124 | cattran.9a1pct@gmail.com
 4 | Nguyễn Quốc Vương | 1612829 | 01628014771 | vuongprowin1@gmail.com
-5 |
+5 | Nguyễn Hữu Trường | 1612
 
 ## Đề tài: Giám sát sức khỏe cho thú cưng
 
